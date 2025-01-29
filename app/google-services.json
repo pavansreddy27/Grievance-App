@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161246284766",
+    "project_id": "pro156-350de",
+    "storage_bucket": "pro156-350de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161246284766:android:8061ddad6301b3e7e76b4f",
+        "android_client_info": {
+          "package_name": "com.example.pro156"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmbhD3R1xprl0qszAaVw3y2Vx2Q2qtZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
